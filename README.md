@@ -1,16 +1,21 @@
-### Hi there 👋
+<img align="right" width="400" height="400" src="https://media0.giphy.com/media/Nx0rz3jtxtEre/200.gif">
+ 
+# Hello there?!
+ 
+## I'm Joshua, welcome to my github profile!
+ 
+… Junior Developer, currently working inside AeC. 
 
-<!--
-**joshua-dias/joshua-dias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Lover of e-sports and technology.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently studying Systems Analysis and Development at UNA - MG. 
+ 
+## About me 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=github.com/joshua-dias)](github.com/joshua-dias)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joshuadiass/)](https://www.linkedin.com/in/joshuadiass/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=55+31+993861636&text=Encontrei você pelo GitHub, podemos conversar?)](https://api.whatsapp.com/send?phone=55+31+993861636&text=Encontrei você pelo GitHub, podemos conversar?)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joshuadias09@gmail.com)](mailto:joshuadias09@gmail.com)
+ 
+- Thanks for coming. 
+ 
+- Hope you like it (: May the force be with you.
