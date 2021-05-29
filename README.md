@@ -4,7 +4,7 @@
  
 ## I'm Joshua, welcome to my github profile!
  
-Junior Developer, currently working inside AeC. 
+Junior QA Tester, currently working inside Base2 Tecnologia. 
 
 Lover of e-sports and technology.
 
