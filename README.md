@@ -4,7 +4,7 @@
  
 ## I'm Joshua, welcome to my github profile!
  
-Junior QA Tester, currently working inside Base2 Tecnologia. 
+Junior QA Tester, currently working inside Toro Invetimentos. 
 
 Lover of e-sports and technology.
 
