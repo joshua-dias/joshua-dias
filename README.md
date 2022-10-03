@@ -8,7 +8,7 @@ Junior QA Tester, currently working inside Toro Invetimentos.
 
 Lover of e-sports and technology.
 
-Currently studying Systems Analysis and Development at UNA - MG. 
+Associate Degree Systems Analysis and Development at UNA - MG. 
  
 ## About me 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=github.com/joshua-dias)](github.com/joshua-dias)
