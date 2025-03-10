@@ -1,5 +1,4 @@
-<img align="right" width="500" height="400" src="https://media0.giphy.com/media/Nx0rz3jtxtEre/200.gif">
- 
+
 # Hello there?!
  
 ## I'm Joshua, welcome to my github profile!
